@@ -2,7 +2,7 @@ title:            软件那些事儿
 description:      视频和音频的文本文件
 disqus_shortname: 
 reading_time:     true
-words_per_minute: 200
+words_per_minute: 300
 # Your site's domain goes here (eg: https://mmistakes.github.io, http://yourdomain.com, etc)
 # When testing locally leave blank or use http://localhost:4000
 url:
@@ -11,7 +11,7 @@ url:
 owner:
   name:          刘延栋 
   avatar:         avatar.jpg
-  bio:            "Hello World，到此一游"
+  bio:            "Hello World，栋哥到此一游"
   email:          liuyandong@gmail.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:        

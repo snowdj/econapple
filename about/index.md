@@ -2,15 +2,15 @@
 layout: page
 title: 关于这个博客
 image:
-  feature: abstract-5.jpg
+  feature: abstract-7.jpg
   credit: dargadgetz
   creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 comments: false
-modified: 2016-02-01
+modified: 2017-01-16
 ---
 ## 建立公众号/播客的起因
 
-去年(2016年6月11日)，我坐在电脑前面，等着凌晨三点的欧洲冠军联赛开始。实在是太困了，我怕睡着以后，错过了比赛，就决定找点儿事情做做，看到别人写公众号挺火的，我决定也搞一个公众号。然后就注册了一个公众号——软件那些事儿——算是正式开始写公众号的生涯。写了好几篇，关注的数量长期徘徊在二十以下，我就把我写的文章，念成语音，放在[网易云音乐](http://music.163.com/#/djradio?id=336387122)和[喜马拉雅电台](http://www.ximalaya.com/46905980/album/4494083)。算是正式开启了我的公众号以及播客的生涯。
+去年(2016年6月11日)，我坐在电脑前面，等着凌晨三点的欧洲冠军联赛开始。实在是太困了，我怕睡着以后，错过了比赛，就决定找点儿事情做做，看到别人写公众号挺火的，我决定也搞一个公众号。然后就注册了一个公众号——软件那些事儿——算是正式开始写公众号的生涯。写了好几篇，关注的数量长期徘徊在二十以下，我就把我写的文章，念成语音，放在[网易云音乐](http://music.163.com/#/djradio?id=336387122)和[喜马拉雅电台](http://www.ximalaya.com/46905980/album/4494083)。算是正式开启了我的公众号以及播客的生涯。使用Apple的podcast搜索 **软件那些事儿** 也可以搜索到我这个频道。
 
 ## 建立这个blog的起因
 

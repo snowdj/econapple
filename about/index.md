@@ -16,26 +16,6 @@ modified: 2016-02-01
 
 截止今天(2017年1月15日)，我已经录了总共85期音频，对应的也有85期的公众号文章发布出来。但是，我感觉把这85期文本存放在腾讯的微信公众号里，说不好哪天就全军覆没了，就在这里给他找一个新家吧。我个人觉得国外的网站，总是要比国内的网站靠谱一些，起码不会被无缘无故的审查并删除文章。我的公众号被删过文章。敝帚自珍吧，毕竟是自己写的85篇文章，以后，我会慢慢的一篇一篇的都复制到这里来，免得被删除。
 
-最后，我的微信公众号是软件那些事儿，可以扫描下面的二维码在微信公众号上关注我。
+最后，我的微信公众号是： __软件那些事儿__，可以扫描下面的二维码在微信公众号上关注我。
 
-They say three times the charm, so here is another free responsive Jekyll blog theme for you. I've learned a ton since open sourcing my first two themes [on Github](http://github.com/mmistakes), and wanted to try a few new things this time around. 
-
-If you've used any of [my other themes](http://mademistakes.com/work/jekyll-themes/) most of this should be familiar territory...
-
-## HPSTR Features:
-
-* Compatible with Jekyll 3 and GitHub Pages.
-* Responsive templates for post, page, and post index `_layouts`. Looks great on mobile, tablet, and desktop devices.
-* Gracefully degrades in older browsers. Compatible with Internet Explorer 8+ and all modern browsers.  
-* Sweet animated menu.
-* Background image support.
-* Support for large images to call out your favorite posts.
-* Optional [Disqus](http://disqus.com) comments.
-* Simple and clear permalink structure[^1].
-* [Open Graph](https://developers.facebook.com/docs/opengraph/) and [Twitter Cards](https://dev.twitter.com/docs/cards) support for a better social sharing experience.
-* [Custom 404 page]({{ site.url }}/404.html) to get you started.
-* [Syntax highlighting]({{ site.url }}/code-highlighting-post/) stylesheets to make your code examples look snazzy.
-
-<div markdown="0"><a href="{{ site.url }}/theme-setup/" class="btn btn-info">Theme Setup</a> <a href="https://github.com/mmistakes/hpstr-jekyll-theme" class="btn btn-success">Download HPSTR</a></div>
-
-[^1]: Example: *domain.com/category-name/post-title*
+![weixin](weixin.jpg)

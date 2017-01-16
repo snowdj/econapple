@@ -39,6 +39,7 @@ image:
 # Hello World<a id="sec-4" name="sec-4"></a>
 
 按照惯例，得写一个Hello World，在Ruby中，只需要一行就可以了。
+
 ```ruby
 puts 'hello world'
 ```

@@ -4,9 +4,9 @@ title: Ruby初学者教程第2讲：安装Ruby
 description: "Sample post with a background image CSS override."
 tags: [ruby]
 image:
-  feature: ruby.jpg
   background: xuanzhi.png
 ---
+<embed height="415" width="544" quality="high" allowfullscreen="true" type="application/x-shockwave-flash" src="//static.hdslb.com/miniloader.swf" flashvars="aid=8041504&page=1" pluginspage="//www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash">
 
 <div id="table-of-contents">
 <h2>Table of Contents</h2>

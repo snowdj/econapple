@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ruby初学者教程第1讲：介绍
-description: "Sample post with a background image CSS override."
+description: "什么是Ruby语言"
 tags: [ruby]
 image:
   background: xuanzhi.png

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 85.构建计算机03：布尔代数
-description: "Sample post with a background image CSS override."
+description: "布尔数学对计算机极其重要！"
 tags: [computer]
 image:
   background: xuanzhi.png
@@ -89,4 +89,3 @@ image:
 我想知道的是，什么时候，人工智能可以帮我判断一下呢？
 
 好了，这期就到这里，下期再见！
-

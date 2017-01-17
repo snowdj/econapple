@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ruby初学者教程第2讲：安装Ruby
-description: "Sample post with a background image CSS override."
+description: "在电脑上如何安装Ruby"
 tags: [ruby]
 image:
   background: xuanzhi.png

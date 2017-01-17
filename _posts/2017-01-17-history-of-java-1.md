@@ -2,7 +2,6 @@
 layout: post
 title: 1. Java语言的历史（上）
 description: "Java语言的由来"
-comments: true
 tags: [Java, History, 故事, 计算机历史, 扯淡]
 image:
   background: xuanzhi.png

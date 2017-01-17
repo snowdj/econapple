@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Java语言的历史（上）
+title: 1. Java语言的历史（上）
 description: "Sample post with a background image CSS override."
-tags: [Java, History, 故事, 历史, 扯淡]
+tags: [Java, History, 故事, 计算机历史, 扯淡]
 image:
   background: xuanzhi.png
 ---

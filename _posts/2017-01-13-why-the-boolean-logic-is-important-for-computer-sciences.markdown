@@ -90,4 +90,3 @@ image:
 
 好了，这期就到这里，下期再见！
 
-![weixin](/images/weixin.jpg)

@@ -6,6 +6,7 @@ tags: [ruby]
 image:
   background: xuanzhi.png
 ---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YG2niQRzBe0" frameborder="0" allowfullscreen></iframe>
 
 <div id="table-of-contents">
 <h2>Table of Contents</h2>

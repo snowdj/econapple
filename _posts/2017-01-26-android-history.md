@@ -2,7 +2,7 @@
 layout: post
 title: IT往事之3. Google开发Android的故事
 description: "Google开发安卓的故事"
-tags: [computer, IT往事, Android, Google]
+tags: [IT往事]
 image:
   background: xuanzhi.png
 ---

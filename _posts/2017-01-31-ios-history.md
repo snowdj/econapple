@@ -1,6 +1,6 @@
 ---
 layout: post
-title: IT往事之4：Apple开发iPhone的故事
+title: IT往事之4. Apple开发iPhone的故事
 description: "Apple开发iPhone的故事"
 tags: [IT往事]
 image:

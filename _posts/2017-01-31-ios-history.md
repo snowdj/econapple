@@ -6,6 +6,9 @@ tags: [IT往事]
 image:
   background: xuanzhi.png
 ---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wQLdt2mT9tE" frameborder="0" allowfullscreen></iframe>
+
 <div id="table-of-contents">
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents">

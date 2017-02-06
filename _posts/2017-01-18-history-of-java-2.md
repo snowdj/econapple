@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 2. Java语言的历史（下）
+title: IT往事之2. Java语言的历史（下）
 description: "Java语言的由来"
-tags: [Java, History, 故事, 计算机历史, 扯淡]
+tags: [IT往事]
 image:
   background: xuanzhi.png
 ---

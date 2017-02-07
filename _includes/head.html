@@ -61,3 +61,16 @@
 {% unless background contains 'http://' or background contains 'https://' %}{% capture background %}{{ site.url }}/images/{{ background }}{% endcapture %}{% endunless %}
 <style type="text/css">body {background-image:url({{ background }});}</style>
 {% endif %}
+
+
+<!-- mermaid support -->
+<script src="//cdn.rawgit.com/knsv/mermaid/master/dist/mermaid.min.js"></script>
+<link rel="stylesheet" href="//cdn.rawgit.com/knsv/mermaid/master/dist/mermaid.css">
+<script>mermaid.initialize({startOnLoad:true});</script>
+
+
+<!-- MathJax -->
+{% if site.enable_mathjax %}
+<script type="text/javascript" src="//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+{% endif %}

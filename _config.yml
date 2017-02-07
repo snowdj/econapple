@@ -7,21 +7,23 @@ words_per_minute: 300
 # When testing locally leave blank or use http://localhost:4000
 url: https://snowdj.github.io/softblog
 
+enable_mathjax: true
+
 # Owner/author information
 owner:
   name:          snowdj
   avatar:         avatar.jpg
   bio:            "Hello World"
-  email:          snowddj@gmail.com
+  email:          snowdj@gmail.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        
-  facebook:       
+  twitter:
+  facebook:
   github:         snowdj
-  stackexchange:  
-  linkedin:       
-  instagram:      
-  flickr:         
-  tumblr:         
+  stackexchange:
+  linkedin:
+  instagram:
+  flickr:
+  tumblr:
   # google plus id, include the '+', eg +mmistakes
   google_plus:
 
@@ -29,14 +31,15 @@ owner:
 background: xuanzhi.png
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:   
-google_verify:      
+google_analytics:
+google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:         
+bing_verify:
+
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Asian/Shanghai
-future:      false  # publish future dated posts --  true, false (default) 
+future:      false  # publish future dated posts --  true, false (default)
 highlighter: rouge
 markdown:    kramdown
 gems:
@@ -62,9 +65,9 @@ kramdown:
   toc_levels: 1..6
   enable_coderay: false
 
-include: 
+include:
   - .htaccess
-exclude: 
+exclude:
   - "*.less"
   - "*.sublime-project"
   - "*.sublime-workspace"

@@ -36,14 +36,14 @@ image:
   <div class="entry-content">
     <!--{{ post.content }} -->
 
-    <!--  more control what is shown in index.html    -->
+    <!--  more control what is shown in index.html  http://briankhuu.com/blog/self/jekyll/2014/12/03/post-truncation-in-jekyll.html  -->
 
-    {% if post.content contains "<!-- more -->" %}
-    {{ post.content | split:'<!-- more -->' | first }}
+    {% if post.content contains '<!--more-->' %}
+        {{ post.content | split:'<!--more-->' | first }}
     {% else %}
-    {{ post.content | strip_html | truncate:250 }}
+        {{ post.excerpt }}
     {% endif %}
-    
+    <a href="{{ post.url }}">read more</a>
 
 
 
